@@ -12,13 +12,9 @@
      \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
 
-<p align="center">Visitors:</p>
-<p align="center"><img align="center"src="https://profile-counter.glitch.me/MariPadilha/count.svg"/></p>
-   </p><hr>
-
    >### I`m Rafael Garay Trindade. I'm 18 years old and a computer science student at Federal University of Pampa (UNIPAMPA).I'm passionate about technology and I'm looking forward to new opportunities.
 
-***
+
 
 ## 🖥️ **Languages**: 
 <div style="display: inline_block"><br>
