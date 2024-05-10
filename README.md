@@ -14,7 +14,7 @@
 
    >### I`m Rafael Garay Trindade. I'm 18 years old and a computer science student at Federal University of Pampa (UNIPAMPA).I'm passionate about technology and I'm looking forward to new opportunities.
 
-
+![Rafael's Github stats](https://github-readme-stats.vercel.app/api?username=RafaelGT4555&show_icons=true)
 
 ## 🖥️ **Languages**: 
 <div style="display: inline_block"><br>
